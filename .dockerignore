@@ -1,5 +1,5 @@
 **
-!/Makefile
+!/Makefile.PL
 !/cpanfile
 !/lib
 !/t

@@ -5,4 +5,5 @@ COPY cpanfile .
 RUN carton install
 
 COPY . .
+RUN perl Makefile.PL
 CMD ["carton", "exec", "cover", "-t"]

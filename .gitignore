@@ -1,2 +1,6 @@
-/local
+/Jig-*
+/Makefile
+/blib
 /coverage
+/local
+/pm_to_blib
