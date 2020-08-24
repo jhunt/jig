@@ -25,4 +25,4 @@ requires:
   warnings: '0'
 resources:
   repository: https://github.com/jhunt/jig.git
-version: v0.22.0
+version: v0.22.1
